@@ -2,8 +2,8 @@ Physics Calculator
 ---
 What is it?
 
-It's a calculator that can solve simple physics equations based on what information is given to it
-Aims to be able to solve any equations on the 2006 New York State Regents Physics Reference Table
+It's a calculator that can solve simple physics equations based on what information is given to it.
+Aims to be able to solve any equations on the 2006 New York State Regents Physics Reference Table.
 
 **- You don't need to know the equations, just the information needed.**
 **- The calculator will let you know if you give it invalid information.**
