@@ -1,4 +1,5 @@
-Jack Martinez's 	Physics Calculator
+**Jack Martinez's Physics Calculator**
+
 ***
 
 What is it?
