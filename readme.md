@@ -3,6 +3,11 @@
 ###What is it?
 
 It's a calculator that can solve simple physics equations based on what imformation is given to it.
+
+***
+
+###Why make it?
+
 Aims to solve any equations found in the 2006 New York State Physics Reference Table.
 
 ***
