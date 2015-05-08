@@ -20,4 +20,6 @@ Also, a good grasp on how to create UIs is required. The working portion of the 
 
 [UIs in Visual C# (This project did not use Visual C#)](http://www.worldbestlearningcenter.com/index_files/csharp_GUI_calculator.htm)
 
+[Useful link to create special characters within the program(like super and subscripts, delta, theta, ect...)](https://msdn.microsoft.com/en-us/library/system.windows.controls.richtextbox%28v=vs.110%29.aspx)
+
 ***
