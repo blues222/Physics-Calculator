@@ -9,6 +9,8 @@ Aims to solve any equations found in the 2006 New York State Regents Physics Ref
 
 ***
 
+What's needed for the project?
+
 A good understanding of physics equations and how they work is required in order to create a fully functional physics calculator
 
 ***
