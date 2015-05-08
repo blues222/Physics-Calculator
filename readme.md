@@ -1,6 +1,6 @@
 #Jack Martinez's Physics Calculator
 
-***
+
 
 ###What is it?
 
