@@ -3,7 +3,6 @@ Physics Calculator
 What is it?
 
 It's a calculator that can solve simple physics equations based on what information is given to it.
-
 Aims to be able to solve any equations on the 2006 New York State Regents Physics Reference Table.
 
 
